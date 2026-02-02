@@ -1,3 +1,8 @@
+---
+name: gitflow
+description: Automatically push code and monitor CI/CD pipeline status across GitHub and GitLab in one place.
+---
+
 # GitFlow — OpenClaw Skill
 
 ## Overview
